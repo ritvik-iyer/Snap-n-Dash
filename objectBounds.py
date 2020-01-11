@@ -37,8 +37,12 @@ def topCoords(object_details):
         x_vals.sort()
         topCoordinates = [x_vals[0], max_Y, x_vals[1], max_Y]
         all_top_Coords.append(topCoordinates)
-    return all_top_Coords
+    total = []
+    for item in all_top_Coords:
+        for subitem in item:
+            total.append(subitem)
+    return total
 
 if __name__ == '__main__':
-    obj_dets = parse_image_details('test-images/test2.jpg')
+    obj_dets = parse_image_details('test-images/test1.jpg')
     print(topCoords(obj_dets))
