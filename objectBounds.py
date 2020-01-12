@@ -3,6 +3,7 @@ from google.cloud.vision import types
 import io
 import os
 import math
+import random
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getcwd() + r"\private-key.json"
 
@@ -41,7 +42,13 @@ def topCoords(object_details):
     for item in all_top_Coords:
         for subitem in item:
             total.append(subitem)
-    return total
+    challenge = []
+    while len(challenge) != 4:
+        x = random.uniform(0, 1)
+        y = random.uniform(0, 1)
+        if  (((x**2) + (y**2))**(0.5) <= 0.3) and (((x**2) + (y**2))**(0.5) >= 0.05):
+            challenge.extend([x, y])
+    return total + challenge
 
 if __name__ == '__main__':
     obj_dets = parse_image_details('test-images/test1.jpg')
