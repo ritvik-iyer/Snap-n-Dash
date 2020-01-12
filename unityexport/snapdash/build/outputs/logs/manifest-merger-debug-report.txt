@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:70-102
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:103-149
+	android:versionCode
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:2:150-190
+supports-screens
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:4:3-13:17
+	android:label
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:4:58-89
+	android:theme
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:4:16-57
+activity#com.sbhacksvi.snapdash.UnityPlayerActivity
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:5:5-8:16
+	android:screenOrientation
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:5:48-86
+	android:label
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:5:87-118
+	android:hardwareAccelerated
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:5:301-336
+	android:configChanges
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:5:119-300
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:5:337-394
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:6:7-82
+	android:value
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:6:59-79
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:6:18-58
+meta-data#android.notch_support
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:7:7-78
+	android:value
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:7:55-75
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:7:18-54
+meta-data#unity.build-id
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:9:5-101
+	android:value
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:9:46-98
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:9:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:10:5-69
+	android:value
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:10:49-66
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:10:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:11:5-74
+	android:value
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:11:51-71
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:11:16-50
+meta-data#notch.config
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:12:5-81
+	android:value
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:12:44-78
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:12:16-43
+uses-feature#0x00030000
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:14:3-52
+	android:glEsVersion
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:14:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:15:3-91
+	android:required
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:15:64-88
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:15:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:16:3-88
+	android:required
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:16:61-85
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:16:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:17:3-99
+	android:required
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:17:72-96
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:17:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:18:3-108
+	android:required
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:18:81-105
+	android:name
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml:18:17-80
+uses-sdk
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shaiyon\Documents\GitHub\SB-Hacks-VI\unityexport\snapdash\src\main\AndroidManifest.xml
