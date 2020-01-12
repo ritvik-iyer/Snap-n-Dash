@@ -10,7 +10,8 @@
     tools:context=".Activity2">
 
     <Button
-        android:id="@+id/btnCamera"
+        android:id="@+id/photoButtonID"
+        android:onClick="onButtonClick"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
@@ -22,9 +23,9 @@
         app:layout_constraintStart_toStartOf="@+id/guideline" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewID"
         android:layout_width="wrap_content"
-        android:layout_height="fill_parent"
+        android:layout_height="wrap_content"
         android:layout_weight="9"
         tools:layout_editor_absoluteX="-16dp"
         tools:layout_editor_absoluteY="8dp" />
