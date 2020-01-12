@@ -29,13 +29,13 @@ def topCoords(object_details):
         y_vals = []
         for point in vertex_set:
             y_vals.append(point[1])
-        max_Y = max(y_vals)
+        min_Y = min(y_vals)
         x_vals = []
         for point in vertex_set:
-            if math.isclose(point[1], max_Y, rel_tol=1e-5):
+            if math.isclose(point[1], min_Y, rel_tol=1e-5):
                 x_vals.append(point[0])
         x_vals.sort()
-        topCoordinates = [x_vals[0], max_Y, x_vals[1], max_Y]
+        topCoordinates = [x_vals[0], min_Y, x_vals[1], min_Y]
         all_top_Coords.append(topCoordinates)
     total = []
     for item in all_top_Coords:
