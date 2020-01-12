@@ -3,6 +3,7 @@ package com.example.snapdash;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.provider.MediaStore;
@@ -37,5 +38,12 @@ public class Activity2 extends AppCompatActivity {
         Bitmap bitmap = (Bitmap) data.getExtras().get("data");
         imageView.setImageBitmap(bitmap);
         System.out.println(bitmap.getWidth());
+        // Unity package name here!
+        try {
+            Intent intent = getPackageManager().getLaunchIntentForPackage("com.sbhacksvi.snapdash");
+            startActivity(intent);
+        } catch (Exception e) {
+            System.out.println("Error: Loading Unity failed!");
+        }
     }
 }
