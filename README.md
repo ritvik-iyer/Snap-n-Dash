@@ -11,3 +11,6 @@ Snap 'n Dash was inspired by an experience we shared as children: imagining a ch
 
 ## Usage
 We aim to release the application to the Android app store. 
+
+
+* Created by Ritvik Iyer, Sambodh Mitra, Anthony Pella, and Shaiyon Hariri at SB Hacks 2020
